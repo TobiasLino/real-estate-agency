@@ -1,0 +1,13 @@
+C:\Users\tobia\source\repos\Corretora\Corretora\bin\Debug\netcoreapp3.1\Corretora.exe
+C:\Users\tobia\source\repos\Corretora\Corretora\bin\Debug\netcoreapp3.1\Corretora.deps.json
+C:\Users\tobia\source\repos\Corretora\Corretora\bin\Debug\netcoreapp3.1\Corretora.runtimeconfig.json
+C:\Users\tobia\source\repos\Corretora\Corretora\bin\Debug\netcoreapp3.1\Corretora.runtimeconfig.dev.json
+C:\Users\tobia\source\repos\Corretora\Corretora\bin\Debug\netcoreapp3.1\Corretora.dll
+C:\Users\tobia\source\repos\Corretora\Corretora\bin\Debug\netcoreapp3.1\Corretora.pdb
+C:\Users\tobia\source\repos\Corretora\Corretora\obj\Debug\netcoreapp3.1\Corretora.csprojAssemblyReference.cache
+C:\Users\tobia\source\repos\Corretora\Corretora\obj\Debug\netcoreapp3.1\Corretora.csproj.CoreCompileInputs.cache
+C:\Users\tobia\source\repos\Corretora\Corretora\obj\Debug\netcoreapp3.1\Corretora.AssemblyInfoInputs.cache
+C:\Users\tobia\source\repos\Corretora\Corretora\obj\Debug\netcoreapp3.1\Corretora.AssemblyInfo.cs
+C:\Users\tobia\source\repos\Corretora\Corretora\obj\Debug\netcoreapp3.1\Corretora.dll
+C:\Users\tobia\source\repos\Corretora\Corretora\obj\Debug\netcoreapp3.1\Corretora.pdb
+C:\Users\tobia\source\repos\Corretora\Corretora\obj\Debug\netcoreapp3.1\Corretora.genruntimeconfig.cache
